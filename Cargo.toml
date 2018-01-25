@@ -1,0 +1,7 @@
+[package]
+name = "editor"
+version = "0.1.0"
+authors = ["vahur"]
+
+[dependencies]
+cassowary = "^0.3.0"
